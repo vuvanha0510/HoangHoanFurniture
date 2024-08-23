@@ -1,0 +1,108 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_LayoutSP.cshtml";
+}
+@*@model List<TDanhMucSp>*@
+@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<TDanhMucSp>
+<div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="section-title">
+                    <h2>Sản phẩm nổi bật</h2>
+                </div>
+                <!-- <div class="featured__controls">
+                    <ul>
+                        <li class="active" data-filter="*">All</li>
+                        <li data-filter=".oranges">Oranges</li>
+                        <li data-filter=".fresh-meat">Fresh Meat</li>
+                        <li data-filter=".vegetables">Vegetables</li>
+                        <li data-filter=".fastfood">Fastfood</li>
+                    </ul>
+                </div>-->
+            </div>
+        </div>
+</div>
+@foreach(var item in Model)
+{
+    @await Html.PartialAsync("PartialSanPham",item)
+
+}
+<div class="product__pagination">
+    @Html.PagedListPager(Model, page=>Url.Action("Index",new{page =page}))
+</div>
+
+<div class="banner mt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-6">
+                <div class="banner__pic">
+                    <img src="../images/funir-images/anhnen.jpg" alt="">
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6">
+                <div class="banner__pic">
+                    <img src="../images/funir-images/new3.jpg" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<section class="from-blog spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="section-title from-blog__title">
+                    <h2>Tin Tức</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 col-md-4 col-sm-6">
+                <div class="blog__item">
+                    <div class="blog__item__pic">
+                        <img src="../images/funir-images/post1.jpg" alt="">
+                    </div>
+                    <div class="blog__item__text">
+                        <ul>
+                            <li><i class="fa fa-calendar-o"></i> 10/05/2023</li>
+                            <li><i class="fa fa-comment-o"></i> Nguyễn Hoàng Long</li>
+                        </ul>
+                        <h5><a href="#">Trang trí phòng khách cho thêm năng động</a></h5>
+                        <p>Không cần quá đầu tư quá nhiều tiền vào những món đồ sang trong cho việc trang trí phòng khách. Bạn vẫn có thể sở hữu không gian phòng khách đẹp với những mẹo... </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6">
+                <div class="blog__item">
+                    <div class="blog__item__pic">
+                        <img src="../images/funir-images/post2.jpg" alt="">
+                    </div>
+                    <div class="blog__item__text">
+                        <ul>
+                            <li><i class="fa fa-calendar-o"></i> 08/09/2023</li>
+                            <li><i class="fa fa-comment-o"></i> Đỗ Mỹ Linh</li>
+                        </ul>
+                        <h5><a href="#">Cách chọn sofa cho phòng khách thêm sang trọng</a></h5>
+                        <p>Không phải ai trong chúng ta cũng biết cách chọn màu sofa cho phòng khách trở nên sang trọng và đẹp mắt hơn. Tuy nhiên, đây là yếu tố quyết định phần lớn đến tính thẩm mỹ của toàn bộ ngôi nhà.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6">
+                <div class="blog__item">
+                    <div class="blog__item__pic">
+                        <img src="../images/funir-images/post3.jpg" alt="">
+                    </div>
+                    <div class="blog__item__text">
+                        <ul>
+                            <li><i class="fa fa-calendar-o"></i> 28/10/2023</li>
+                            <li><i class="fa fa-comment-o"></i> Đan Thế Việt</li>
+                        </ul>
+                        <h5><a href="#">25+ Mẫu giường ngủ hộc kéo cho phòng nhỏ</a></h5>
+                        <p>Sự thật là chúng ta dành hết 1/3 cuộc đời chỉ để ngủ, vì thế việc tạo được một giấc ngủ ngon là một điều đặc biệt quan trọng. Giường ngủ hộc kéo chính là giải pháp...</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

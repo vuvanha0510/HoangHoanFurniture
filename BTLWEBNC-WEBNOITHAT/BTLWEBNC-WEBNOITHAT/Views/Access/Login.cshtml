@@ -1,0 +1,34 @@
+﻿@model BTLWEBNC_WEBNOITHAT.Models.TUser
+
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_LayoutTrangchu.cshtml";
+}
+
+<div class="row">
+    <div class="col-12 col-sm-12 col-lg-12">
+        <h2 class="pb-3">ĐĂNG NHẬP</h2>
+        <form asp-action="Login">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Username" class="control-label"></label>
+                <input asp-for="Username" class="form-control" />
+                <span asp-validation-for="Username" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Đăng nhập" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+    <div>
+        <p>Bạn chưa có tài khoản? Vui lòng đăng ký, <a asp-action="Register">tại đây</a></p>
+    </div>
+</div>
+
+
+

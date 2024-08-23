@@ -1,0 +1,145 @@
+﻿@model IEnumerable<BTLWEBNC_WEBNOITHAT.Models.TblChiTietGioHang1>
+
+@{
+    ViewData["Title"] = "GioHang";
+    Layout = "~/Views/Shared/_LayoutTrangchu.cshtml";
+}
+
+<h2 class="pt-3 pb-3">Danh sách đơn hàng của bạn</h2>
+<table class="table">
+    <thead>
+        <tr>
+
+            <th>
+                Tên sản phẩm
+            </th>
+            <th>
+                Ảnh minh họa
+            </th>
+            <th>
+                Số lượng
+            </th>
+            <th>
+                Giá tiền
+            </th>
+            <th>
+                Tổng tiền
+            </th>
+            <th>
+                Chọn
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.TenSp)
+                </td>
+                <td>
+                    <img src="@Url.Content("../images/funir-images/"+item.HinhAnh)" style="width:100px;height:100px">
+
+                </td>
+                <td>
+                    <form method="post">
+                        @if (@item.SoLuong == 1)
+                        {
+                            <button class="btn btn-success" asp-action="Thaydoi" asp-route-id="@item.IdchiTietDonHang" asp-route-data="-" disabled>
+                                -
+                            </button>
+                        }
+                        else
+                        {
+                            <button class="btn btn-success" asp-action="Thaydoi" asp-route-id="@item.IdchiTietDonHang" asp-route-data="-">
+                                -
+                            </button>
+                        }
+
+
+                        @Html.DisplayFor(modelItem => item.SoLuong)
+                        <button class="btn btn-success" asp-action="Thaydoi" asp-route-id="@item.IdchiTietDonHang" asp-route-data="+">
+                            +
+                        </button>
+                    </form>
+                </td>
+
+                <td>
+                    @Html.Raw(@String.Format("{0:N}", item.ThanhTien)) <span>VND</span>
+                </td>
+                <td>
+                    @Html.Raw(@String.Format("{0:N}", item.TongTien)) <span>VND</span>
+
+                </td>
+                <td>
+                    <label>
+                        <input type="checkbox" name="isChecked" value="@Html.DisplayFor(modelItem => item.IdchiTietDonHang)" id="@item.IdchiTietDonHang" @(item.Check1.GetValueOrDefault() ? "checked" : "")
+                               onclick="check123(@item.IdchiTietDonHang)">
+                    </label>
+                </td>
+                <td>
+                    <a asp-action="Delete" asp-route-id="@item.IdchiTietDonHang">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div class="btn btn-primary">
+    <a asp-action="GioHang" style="color:#fff" class="text-decoration-none">Update</a>
+</div>
+<h3 class="text-right ml-3">Tổng số tiền cần trả là: <span id="tongtienmoi">@Html.Raw(@String.Format("{0:N}", @TempData["TongSotien"]))</span>  </h3>
+@*<div id="partialViewContainer" style="position:fixed;bottom:10%;right:0%;background-color:white;z-index:9">
+    @await Html.PartialAsync("CartPartialView",TempData)
+</div>*@
+
+
+@section Scripts {
+    <script>
+        var check123 = function (id) {
+            var checked = document.getElementById(`${id}`);
+            var checkTest;
+            checked.addEventListener('change', function () {
+                // Kiểm tra nếu checkbox đã được kiểm tra
+                if (checked.checked) {
+                    // Checkbox đã kiểm tra
+                    checkTest = true;
+                    $.ajax({
+                        method: "POST",
+                        url: "/Cart/checkThayDoi",
+                        data: { id: id, isCheked: checkTest },
+                        success: function (result) {
+                            //var tongtienmoi = result.data;
+                            //if (tongtienmoi != null) {
+                            //    $("#tongtienmoi").text = tongtienmoi.toLocaleString();
+                            //}
+                            console.log(result)
+                            $("#partialViewContainer").html(result);
+                        }, error: function (data) {
+                            console.log(data)
+                        }
+                    });
+                } else {
+                    // Checkbox chưa kiểm tra
+                    checkTest = false;
+                    $.ajax({
+                        method: "POST",
+                        url: "/Cart/checkThayDoi",
+                        data: { id: id, isCheked: checkTest },
+                        success: function (result) {
+                            // var tongtienmoi = result.data;
+                            //if(tongtienmoi!= null){
+                            //     $("#tongtienmoi").text = tongtienmoi.toLocaleString();
+                            // }
+                            console.log(result)
+                            $("#partialViewContainer").html(result);
+                        }, error: function (data) {
+                            console.log(data)
+                        }
+                    });
+                }
+            });
+        }
+    </script>
+}

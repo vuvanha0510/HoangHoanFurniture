@@ -1,0 +1,110 @@
+* {
+    box-sizing: border-box;
+}
+.mr5 {
+    margin-right: 10%;
+}
+
+.mlheader {
+    margin-left: 20%;
+}
+
+.content{
+    background-color: #f3f3f3;
+}
+.banner img{
+    height: 350px;
+    width: 100%;
+}
+.banner .logobn{
+    top: 20%;
+    left: 46%;
+}
+.banner .logobn img{
+    width: 100px;
+    height: 100px;
+}
+.banner .logobn h2{
+    font-weight: 800;
+    color: #fff;
+    margin-left: -36px;
+}
+
+.content-recommend .content{
+    background-color: #fff;
+    margin-right: 10%;
+    margin-left: 2%;
+    top: 500px;
+}
+.content-recommend .content .ct1-recommend,
+.ct2-recommend, .ct3-recommend{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.content-recommend .content h2{
+    font-weight: 800;
+    color: #2c2e53;
+}
+.content-recommend p{
+    text-align: justify;
+    font-size: 1rem;
+}
+.content-recommend img{
+    width: 100%;
+}
+.content-recommend .content .ct3-recommend img{
+    width: 70px;
+    height: 45px;
+}
+.content-recommend .ct3-recommend label{
+    margin-right: 15px;
+}
+.content-recommend .ct3-recommend span{
+    color: #bd945f;
+}
+.boder{
+    border: 4px #bd945f solid;
+    padding: 10px;
+}
+
+
+.footer {
+    width: 100%;
+    height: auto;
+    margin-top: 1550px;
+}
+
+@media (max-width: 780px){
+    .content-recommend .content {
+        background-color: #fff;
+        margin-right: 10%;
+        margin-left: 7%;
+        top: 560px;
+    }
+    .content{
+        width: 80%;
+    }
+    .content-recommend img{
+        width: 100%;
+    }
+    /* .banner img{
+        height: 250px;
+    } */
+    .banner .logobn{
+        left: 38%;
+    }
+
+    .banner .logobn h2{
+        margin-left: -18px;
+    }
+    .footer{
+        margin-top: 2675px;
+    }
+
+}
+@media (min-width: 768px)and (max-width: 1024px) { 
+   
+    .footer{
+        margin-top: 2000px;
+    }
+}

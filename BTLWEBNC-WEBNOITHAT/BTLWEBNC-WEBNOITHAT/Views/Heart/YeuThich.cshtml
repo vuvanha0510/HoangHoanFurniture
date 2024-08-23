@@ -1,0 +1,64 @@
+﻿@model IEnumerable<BTLWEBNC_WEBNOITHAT.Models.TblCtyeuThich>
+
+@{
+    ViewData["Title"] = "YeuThich";
+    Layout = "~/Views/Shared/_LayoutTrangchu.cshtml";
+}
+
+
+
+@*<table class="table">
+    <thead>
+        <tr>
+
+            <th>
+                Tên sản phẩm
+            </th>
+            <th>
+                Ảnh minh họa
+            </th>
+            <th>
+                Giá tiền
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.TenSp)
+                </td>
+                <td>
+                    <img src="@Url.Content("../images/funir-images/"+item.HinhAnh)" style="width:100px;height:100px">
+
+                </td>
+                <td>
+                    @Html.Raw(@String.Format("{0:N}", item.DonGiaBan)) <span>VND</span>
+                </td>
+                <td>
+                    <a asp-action="Delete" asp-route-id="@item.IdctyeuThich">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>*@
+<div class="col-12 col-sm-12 col-lg-12">
+    <h2 class="pt-3 pb-3">Danh sách sản phẩm yêu thích</h2>
+</div>
+    @foreach (var item in Model)
+    {
+        <div class="col-lg-4 col-md-4 col-sm-6 mix oranges fresh-meat">
+            <div class="featured__item">
+                <div class="featured__item__pic set-bg" data-setbg=@Url.Content("../images/funir-images/"+item.HinhAnh) style="background-image: url(&quot;img/featured/feature-1.jpg&quot;);">
+                </div>
+                <div class="featured__item__text">
+                    <h6><a href="#">@item.TenSp</a></h6>
+                    <h5>@item.DonGiaBan</h5>
+                </div>
+            </div>
+        </div>
+    }
+

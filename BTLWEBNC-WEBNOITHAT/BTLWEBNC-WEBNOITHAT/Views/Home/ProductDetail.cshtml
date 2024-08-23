@@ -1,0 +1,136 @@
+﻿@model BTLWEBNC_WEBNOITHAT.ViewModels.HomeProductDetailViewModel
+
+@{
+    ViewData["Title"] = "ProductDetail";
+    Layout = "~/Views/Shared/_LayoutSP.cshtml";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="section-title">
+                <h2>Chi tiết sản phẩm</h2>
+            </div>
+            <!-- <div class="featured__controls">
+                <ul>
+                    <li class="active" data-filter="*">All</li>
+                    <li data-filter=".oranges">Oranges</li>
+                    <li data-filter=".fresh-meat">Fresh Meat</li>
+                    <li data-filter=".vegetables">Vegetables</li>
+                    <li data-filter=".fastfood">Fastfood</li>
+                </ul>
+            </div>-->
+        </div>
+    </div>
+</div>
+<section class="product-details spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-6">
+                <div class="product__details__pic">
+                    <div class="product__details__pic__item">
+                        <img class="product__details__pic__item--large"
+                             src="@Url.Content("../images/funir-images/"+Model.danhMucSp.AnhDaiDien)" alt="">
+                    </div>
+                    <div class="product__details__pic__slider owl-carousel">
+                        @foreach (var image in Model.anhSps)
+                        {
+                            <img data-imgbigurl="img/product/details/product-details-2.jpg"
+                                 src="@Url.Content("../images/funir-images/"+image.TenFileAnh)" alt="">
+
+                        }
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6">
+                <div class="product__details__text">
+                    <h3>@Model.danhMucSp.TenSp</h3>
+                    @*<div class="product__details__rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                        <span>(18 reviews)</span>
+                    </div>*@
+                    <div class="product__details__price">@Model.danhMucSp.GiaLonNhat</div>
+                    <p>
+                        @Model.danhMucSp.GioiThieuSp
+                    </p>
+                    <Form method="post" asp-controller="Home" asp-action="AddToCardDetail">
+                        <input type="hidden" name="MaSp1" value="@Model.danhMucSp.MaSp">
+                    <div class="product__details__quantity">
+                        <div class="quantity">
+                            <div class="pro-qty">
+                                <input type="text" name="SoLuong" value="1">
+                            </div>
+                        </div>
+                    </div>
+                        <button class="primary-btn">Thêm vào giỏ hàng</button>
+
+                    @*<a asp-controller="Home" asp-action="AddToCard" asp-route-id="@Model.danhMucSp.MaSp" class="primary-btn">Thêm vào giỏ hàng</a>*@
+                    <a asp-controller="Home" asp-action="AddYeuThich" asp-route-id="@Model.danhMucSp.MaSp" class="heart-icon"><span class="icon_heart_alt"></span></a>
+                    </Form>
+                    <!-- <ul>
+                        <li><b>Availability</b> <span>In Stock</span></li>
+                        <li><b>Shipping</b> <span>01 day shipping. <samp>Free pickup today</samp></span></li>
+                        <li><b>Weight</b> <span>0.5 kg</span></li>
+                        <li>
+                            <b>Share on</b>
+                            <div class="share">
+                                <a href="#"><i class="fa fa-facebook"></i></a>
+                                <a href="#"><i class="fa fa-twitter"></i></a>
+                                <a href="#"><i class="fa fa-instagram"></i></a>
+                                <a href="#"><i class="fa fa-pinterest"></i></a>
+                            </div>
+                        </li>
+                     </ul>-->
+                </div>
+            </div>
+           <!-- <div class="col-lg-12">
+                <div class="product__details__tab">
+                    <ul class="nav nav-tabs" role="tablist">
+                        <li class="nav-item">
+                            <a class="nav-link active" data-toggle="tab" href="#tabs-1" role="tab"
+                               aria-selected="true">Description</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#tabs-2" role="tab"
+                               aria-selected="false">Information</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#tabs-3" role="tab"
+                               aria-selected="false">Reviews <span>(1)</span></a>
+                        </li>
+                    </ul>
+                    <div class="tab-content">
+                        <div class="tab-pane active" id="tabs-1" role="tabpanel">
+                            <div class="product__details__tab__desc">
+                                <h6>Products Infomation</h6>
+                                <p>
+                                    @Model.danhMucSp.GioiThieuSp
+                                </p>
+                            </div>
+                        </div>
+                        <div class="tab-pane" id="tabs-2" role="tabpanel">
+                            <div class="product__details__tab__desc">
+                                <h6>Products Infomation</h6>
+                                <p>
+                                    @Model.danhMucSp.GioiThieuSp
+                                </p>
+                            </div>
+                        </div>
+                        <div class="tab-pane" id="tabs-3" role="tabpanel">
+                            <div class="product__details__tab__desc">
+                                <h6>Products Infomation</h6>
+                                <p>
+                                    @Model.danhMucSp.GioiThieuSp
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+             </div>-->
+        </div>
+    </div>
+</section>

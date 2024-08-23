@@ -1,0 +1,837 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BTLWEBNC-WEBNOITHAT.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BTLWEBNC-WEBNOITHAT.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\css\\gioithieu.css",
+      "PackagePath": "staticwebassets\\assets\\css\\gioithieu.css"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\blog\\details\\details-author.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\details\\details-author.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\blog\\details\\details-hero.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\details\\details-hero.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\blog\\details\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\details\\details-pic.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\blog\\sidebar\\sr-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\sidebar\\sr-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\blog\\sidebar\\sr-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\sidebar\\sr-2.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\blog\\sidebar\\sr-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\sidebar\\sr-3.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\breadcrumb.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cart\\cart-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cart\\cart-2.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\cart\\cart-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cart\\cart-3.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\categories\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\categories\\cat-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\categories\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\categories\\cat-2.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\categories\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\categories\\cat-3.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\categories\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\categories\\cat-4.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\categories\\cat-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\categories\\cat-5.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\featured\\feature-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\featured\\feature-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\featured\\feature-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\featured\\feature-2.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\featured\\feature-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\featured\\feature-3.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\featured\\feature-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\featured\\feature-4.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\featured\\feature-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\featured\\feature-5.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\featured\\feature-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\featured\\feature-6.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\featured\\feature-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\featured\\feature-7.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\featured\\feature-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\featured\\feature-8.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\hero\\banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\banner.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\language.png",
+      "PackagePath": "staticwebassets\\assets\\img\\language.png"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\latest-product\\lp-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\latest-product\\lp-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\latest-product\\lp-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\latest-product\\lp-2.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\latest-product\\lp-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\latest-product\\lp-3.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\payment-item.png",
+      "PackagePath": "staticwebassets\\assets\\img\\payment-item.png"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\details\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\details\\product-details-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\details\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\details\\product-details-2.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\details\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\details\\product-details-3.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\details\\product-details-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\details\\product-details-4.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\details\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\details\\product-details-5.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\details\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\details\\thumb-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\details\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\details\\thumb-2.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\details\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\details\\thumb-3.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\details\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\details\\thumb-4.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\discount\\pd-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\discount\\pd-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\discount\\pd-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\discount\\pd-2.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\discount\\pd-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\discount\\pd-3.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\discount\\pd-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\discount\\pd-4.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\discount\\pd-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\discount\\pd-5.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\discount\\pd-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\discount\\pd-6.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\product-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-10.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\product-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-11.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\product-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-12.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-5.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-6.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\product-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-7.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-8.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-9.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\CAFE_ROYALE_Outdoor_Table.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\CAFE_ROYALE_Outdoor_Table.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\Kegantuong.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\Kegantuong.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\LIPIZZAN_Display_Shelf_MDF_White.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\LIPIZZAN_Display_Shelf_MDF_White.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\MOZART_Bedside_table_Natural-White.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\MOZART_Bedside_table_Natural-White.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\NARBONNE_Sofa.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\NARBONNE_Sofa.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\PALL_MALL_Dining_Table_Walnut_Rubbe_Wood.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\PALL_MALL_Dining_Table_Walnut_Rubbe_Wood.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\RIVIERA_Outdoor_Table_UMA.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\RIVIERA_Outdoor_Table_UMA.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\anhnen.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\anhnen.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\atlanta_armchair.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\atlanta_armchair.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\banner2.png",
+      "PackagePath": "staticwebassets\\images\\funir-images\\banner2.png"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\bannerrecom.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\bannerrecom.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\bo_ban_trang_diem.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\bo_ban_trang_diem.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\carine_dressing_table_baya.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\carine_dressing_table_baya.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\dallas_sofa.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\dallas_sofa.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\ethan_office_chair_baya.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\ethan_office_chair_baya.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\ghe-bap-benh-viking.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\ghe-bap-benh-viking.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\giuong-harris.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\giuong-harris.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\giuong1m6.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\giuong1m6.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\giuong1m62.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\giuong1m62.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\giuong1m8.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\giuong1m8.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\houston_armchair.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\houston_armchair.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\img1.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\img1.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\img2.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\img2.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\joy_sofa.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\joy_sofa.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\ke-trung-bay-lipizzan.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\ke-trung-bay-lipizzan.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\kededo.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\kededo.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\kitka_bed_baya.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\kitka_bed_baya.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\kyle_office_chair_baya.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\kyle_office_chair_baya.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\logo.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\logo.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\logo1.png",
+      "PackagePath": "staticwebassets\\images\\funir-images\\logo1.png"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\new3.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\new3.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\nguoitho.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\nguoitho.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\post1.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\post1.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\post2.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\post2.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\post3.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\post3.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\rally_bed_rubber_wood_plywood_white_uma.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\rally_bed_rubber_wood_plywood_white_uma.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\silva_sofa_bed.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\silva_sofa_bed.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\solana_outdoor_chair_baya.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\solana_outdoor_chair_baya.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\solana_outdoor_table.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\solana_outdoor_table.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\su-menh1.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\su-menh1.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\su-menh2.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\su-menh2.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\su-menh3.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\su-menh3.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\su-menh4.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\su-menh4.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\sund_bedside_table_baya.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\sund_bedside_table_baya.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\sund_cabinet_3.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\sund_cabinet_3.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\sund_combo_desk_baya.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\sund_combo_desk_baya.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\tampa_sofa.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\tampa_sofa.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\tu_ke_tivi.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\tu_ke_tivi.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\tudaugiuong.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\tudaugiuong.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\tuketivi2.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\tuketivi2.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\tumotcanh.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\tumotcanh.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Lập trình Web NC\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BTLWEBNC-WEBNOITHAT.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BTLWEBNC-WEBNOITHAT.props",
+      "PackagePath": "build\\BTLWEBNC-WEBNOITHAT.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BTLWEBNC-WEBNOITHAT.props",
+      "PackagePath": "buildMultiTargeting\\BTLWEBNC-WEBNOITHAT.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BTLWEBNC-WEBNOITHAT.props",
+      "PackagePath": "buildTransitive\\BTLWEBNC-WEBNOITHAT.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

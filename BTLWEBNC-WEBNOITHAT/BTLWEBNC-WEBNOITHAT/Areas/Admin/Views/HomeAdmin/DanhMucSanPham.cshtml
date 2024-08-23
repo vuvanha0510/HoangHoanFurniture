@@ -1,0 +1,60 @@
+﻿@using BTLWEBNC_WEBNOITHAT.Models;
+@{
+    ViewData["Title"] = "DanhMucSanPham";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<TDanhMucSp>
+<h1>DanhMucSanPham</h1>
+
+<p>
+    <a asp-action="ThemSanPhamMoi">Create New</a>
+</p>
+<p>@TempData["Message"]</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Tên sản phẩm
+            </th>
+            <th>
+                Ảnh mô tả
+            </th>
+            <th>
+                Giá nhỏ nhất
+            </th>
+            <th>
+                Giá lớn nhất
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenSp)
+            </td>
+            <td>
+                <img style="width:50px;height:50px" src="~/images/funir-images/@item.AnhDaiDien"/>
+                @*@Html.DisplayFor(modelItem => item.AnhDaiDien)*@
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GiaNhoNhat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GiaLonNhat)
+            </td>
+            <td>
+                <a asp-action="UpdateSanPham" asp-route-maSanPham="@item.MaSp">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.MaSp">Details</a> |
+                <a asp-action="XoaSanPham" asp-route-maSanPham="@item.MaSp">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<div class="product__pagination">
+    @Html.PagedListPager(Model, page=>Url.Action("DanhMucSanPham",new{page =page}))
+</div>
